@@ -1,1 +1,17 @@
 # Learners-Analytic-System
+
+# Background
+Computer Education is getting its relevance in this digital age. In 2017, Ministry of Education (MOE) introduced a new computing subject, GCE O Level Computing for secondary schools. This is in line with other initiatives to make Singapore a smart nation in the long run [1]. By introducing Computer Education into the curriculum, interested students will not only be just a “technology user”, but “technology designer”. They will be exposed to different dimensions of Computer Education, such as Computational Thinking (CT), and Digital Literacy. Figure 1 shows the Computer Education Framework adopted for GCSE O Level Computing subject [2]. For this project, we will be focusing on the topic of Computational Thinking.
+
+CT is a thought process used to solve complex problem based on computing resources and capability. There are several concepts in CT that one can apply in problem [3]:
+• Decomposition – Breaking down a big problem into small, manageable parts
+• Pattern Matching – looking for similarities in the problem
+• Abstraction – Narrowing down to important information
+• Algorithm Design – Developing a step-by-step solution to the problem
+
+In most cases, concepts of CT are taught together with programming. By solving a complex problem using programming, those CT concepts are further reinforced.
+However, there is a high barrier of entry for students to learn programming. It is often perceived as a complex skill to be acquired. In addition, the stigma of a steep learning curve for programming deters people from take any coding-related courses. Apart from students, instructors are posed with challenges in delivering programming classes. These classes should maximize learning experience through engaging activities and project.
+
+# Objective
+The objective of this project consists of two parts. The first part is to implement a learner’s analytics framework for post class/workshop review. This framework collects learning progress related data from the learners during the workshop and displays statistics of their learning progress. The second part of the objective is to design a computational thinking workshop to test the usefulness of the learner’s analytics framework. The workshop was designed with several teaching pedagogies to evaluate their effectiveness.
+
