@@ -1,4 +1,5 @@
-# Learners-Analytic-System
+# Final Year Project AY 17/18 :
+## Learners-Analytic-System
 
 # Background
 Computer Education is getting its relevance in this digital age. In 2017, Ministry of Education (MOE) introduced a new computing subject, GCE O Level Computing for secondary schools. This is in line with other initiatives to make Singapore a smart nation in the long run [1]. By introducing Computer Education into the curriculum, interested students will not only be just a “technology user”, but “technology designer”. They will be exposed to different dimensions of Computer Education, such as Computational Thinking (CT), and Digital Literacy. Figure 1 shows the Computer Education Framework adopted for GCSE O Level Computing subject [2]. For this project, we will be focusing on the topic of Computational Thinking.
