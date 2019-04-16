@@ -1,18 +1,17 @@
 Author: Sim Long Siang
 
-- Purpose of folder/file
+- folder Directory Guide
 1. Client : contains workshop activity files for learners 
-2. Client_expected: contains completed workshop activity files where learners are expected to code as similar to this
-3. Demo_code: contains codes for demonstrational part of the workshop
+2. Client_Reference: contains completed workshop activity files where learners are expected to code as similar to this
+3. Activity Code Template: contains codes for demonstrational part of the workshop
 4. Log Files: contains error messages collected during the workshop
-5. Analysis.py: Learners Analytic Application
+5. Learner's Analytic System Code.py: Learners Analytic Application
 6. Client.py: Learners socket connection code
 7. Server.py: Instructors socket connection code
-8. Exception_handling.py: contains various methods and functions to format error messages
-9. SCE-0282 Learners Analytics Framework Code Documentation.pdf : Explanation of code for this project
-10. Workshop Content Details: Contains content covered and timetable of workshop 
+8. Exception_handling Variety.py: contains various methods and functions to format error messages
+9. FYP - Reports and Admin. Files: Contains Final Project Report, Workshop Content details and various Screenshots of Learner's Analytic System
 
-- URL of references
+- URL of Python Libraries references
 1. Matplotlib - https://matplotlib.org/index.html
 2. Tkinter - http://effbot.org/tkinterbook/tkinter-index.htm
 3. Sense-Hat – https://www.raspberrypi.org/documentation/hardware/sense-hat/
