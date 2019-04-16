@@ -41,4 +41,4 @@ The objective of this project consists of two parts. The first part is to implem
 3. Sense-Hat – https://www.raspberrypi.org/documentation/hardware/sense-hat/
 4. Python standard library - https://docs.python.org/2/library/
 
-![alt text](https://github.com/SimLongXiang/FYP-SCE17-0282-Learners-Analytic-System/blob/master/FYP%20-%20Reports%20and%20Administrative%20Files/FYP%20-%20Poster.pngg)
+![alt text](https://github.com/SimLongXiang/FYP-SCE17-0282-Learners-Analytic-System/blob/master/FYP%20-%20Reports%20and%20Administrative%20Files/FYP%20-%20Poster.png)
