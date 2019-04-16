@@ -1,5 +1,5 @@
-# Final Year Project AY 17/18 :
-## Learners-Analytic-System
+# Final Year Project AY 17/18 : Learners-Analytic-System
+## [Final Report Available here.](https://github.com/SimLongXiang/FYP-SCE17-0282-Learners-Analytic-System/blob/master/FYP%20-%20Reports%20and%20Administrative%20Files/FYP%20-%20Final%20Report.docx)
 
 # folder Directory Guide
 1. Client : contains workshop activity files for learners 
