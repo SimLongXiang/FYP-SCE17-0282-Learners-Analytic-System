@@ -12,10 +12,8 @@ Author: Sim Long Siang
 9. SCE-0282 Learners Analytics Framework Code Documentation.pdf : Explanation of code for this project
 10. Workshop Content Details: Contains content covered and timetable of workshop 
 
-- URL of downloadables and references
-1. Image of RPI (Client): https://drive.google.com/open?id=1WIHeZe-_-1hLvoZholQh3xGCsjI6SS-B
-2. Image of RPI (Server): https://drive.google.com/open?id=1Tm9pmXH9FN9Qhvt_pWnrz6pFMOPMd9Vi
-3. Matplotlib - https://matplotlib.org/index.html
-4. Tkinter - http://effbot.org/tkinterbook/tkinter-index.htm
-5. Sense-Hat – https://www.raspberrypi.org/documentation/hardware/sense-hat/
-6. Python standard library - https://docs.python.org/2/library/
+- URL of references
+1. Matplotlib - https://matplotlib.org/index.html
+2. Tkinter - http://effbot.org/tkinterbook/tkinter-index.htm
+3. Sense-Hat â€“ https://www.raspberrypi.org/documentation/hardware/sense-hat/
+4. Python standard library - https://docs.python.org/2/library/
