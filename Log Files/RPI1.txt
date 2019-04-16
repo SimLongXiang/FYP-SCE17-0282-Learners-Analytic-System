@@ -1,0 +1,28 @@
+09:51:09|1|12|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:53:34|1|13|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+10:19:31|1|8|<class 'NameError'>|name 'x' is not defined
+10:20:08|1|17|<class 'NameError'>|name 'sense' is not defined
+10:22:41|1|20|<class 'NameError'>|name 'time' is not defined
+10:24:39|1|20|<class 'NameError'>|name 'time' is not defined
+10:26:09|1|20|<class 'NameError'>|name 'time' is not defined
+10:26:39|1|20|<class 'NameError'>|name 'time' is not defined
+10:40:06|1|36|<class 'NameError'>|name 'circle' is not defined
+14:27:50|1|8|<class 'NameError'>|name 'PO' is not defined
+14:28:44|1|8|<class 'NameError'>|name 'PO' is not defined
+14:32:50|1|8|<class 'NameError'>|name 'PO' is not defined
+14:33:19|1|11|<class 'NameError'>|name 'label' is not defined
+14:33:57|1|11|<class 'NameError'>|name 'label' is not defined
+14:41:15|1|14|<class 'AttributeError'>|type object 'Frame' has no attribute 'tk'
+14:41:41|1|14|<class '_tkinter.TclError'>|unknown option "-witdh"
+14:42:17|1|14|<class '_tkinter.TclError'>|unknown option "-witdh"
+14:48:36|1|21|<class '_tkinter.TclError'>|unknown option "-column"
+14:49:44|1|21|<class '_tkinter.TclError'>|unknown option "-row"
+14:50:55|1|21|<class '_tkinter.TclError'>|unknown option "-row"
+14:51:19|1|21|<class '_tkinter.TclError'>|unknown option "-row"
+14:52:01|1|21|<class '_tkinter.TclError'>|unknown option "-row"
+16:02:29|1|40|<class '_tkinter.TclError'>|unknown option "-command"
+16:02:46|1|40|<class '_tkinter.TclError'>|unknown option "-command"
+16:03:47|1|40|<class '_tkinter.TclError'>|unknown option "-command"
+16:10:01|1|40|<class '_tkinter.TclError'>|unknown option "-command"
+16:24:17|1|40|<class '_tkinter.TclError'>|unknown option "-command"
+16:25:45|1|39|<class '_tkinter.TclError'>|unknown option "-command"

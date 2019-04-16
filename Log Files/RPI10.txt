@@ -1,0 +1,13 @@
+10:50:34|10|74|<class 'TypeError'>|object of type 'int' has no len()
+13:50:34|10|63|<class 'TypeError'>|set_pixel() missing 1 required positional argument: 'y'
+14:04:25|10|59|<class 'TypeError'>|can only concatenate list (not "str") to list
+14:31:46|10|12|<class 'AttributeError'>|'str' object has no attribute 'items'
+14:37:34|10|15|<class 'NameError'>|name 'start' is not defined
+14:40:15|10|18|<class 'AttributeError'>|'int' object has no attribute 'items'
+14:46:38|10|19|<class '_tkinter.TclError'>|bad option "-x": must be -column, -columnspan, -in, -ipadx, -ipady, -padx, -pady, -row, -rowspan, or -sticky
+15:03:18|10|12|<class '_tkinter.TclError'>|expected integer but got "Bold"
+15:03:49|10|12|<class '_tkinter.TclError'>|expected integer but got "bold"
+15:04:19|10|19|<class 'TypeError'>|place_configure() missing 1 required positional argument: 'self'
+15:06:09|10|12|<class '_tkinter.TclError'>|expected integer but got "italic"
+15:21:55|10|42|<class 'NameError'>|name 'text' is not defined
+15:22:22|10|42|<class 'NameError'>|name 'text' is not defined

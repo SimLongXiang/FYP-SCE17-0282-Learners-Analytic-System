@@ -1,0 +1,33 @@
+09:43:46|6|7|<class 'NameError'>|name 'question' is not defined
+09:50:26|6|9|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:52:31|6|10|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:58:13|6|14|<class 'NameError'>|name 'age' is not defined
+10:23:17|6|22|<class 'NameError'>|name 'Five' is not defined
+10:23:42|6|22|<class 'NameError'>|name 'Five' is not defined
+10:23:53|6|23|<class 'NameError'>|name 'time' is not defined
+10:24:24|6|23|<class 'NameError'>|name 'time' is not defined
+10:31:12|6|35|<class 'NameError'>|name 'time' is not defined
+10:32:14|6|47|<class 'NameError'>|name 'time' is not defined
+10:32:37|6|47|<class 'NameError'>|name 'time' is not defined
+10:33:37|6|47|<class 'NameError'>|name 'time' is not defined
+10:35:54|6|47|<class 'NameError'>|name 'time' is not defined
+10:36:21|6|47|<class 'NameError'>|name 'time' is not defined
+10:36:39|6|48|<class 'TypeError'>|object of type 'int' has no len()
+10:37:57|6|50|<class 'TypeError'>|object of type 'int' has no len()
+10:38:32|6|50|<class 'TypeError'>|object of type 'int' has no len()
+10:39:52|6|50|<class 'TypeError'>|object of type 'int' has no len()
+14:11:46|6|68|<class 'ValueError'>|Pixel lists must have 64 elements
+14:13:16|6|68|<class 'ValueError'>|Pixel lists must have 64 elements
+14:14:52|6|68|<class 'ValueError'>|Pixel lists must have 64 elements
+14:31:43|6|11|<class 'AttributeError'>|'str' object has no attribute 'items'
+14:34:09|6|11|<class 'NameError'>|name 'Helvetica' is not defined
+14:35:07|6|11|<class '_tkinter.TclError'>|unknown font style "italics"
+14:42:58|6|20|<class 'NameError'>|name 'ButtoN' is not defined
+15:05:22|6|17|<class 'AttributeError'>|type object 'Frame' has no attribute 'tk'
+15:05:37|6|17|<class 'AttributeError'>|type object 'Frame' has no attribute 'tk'
+15:05:49|6|17|<class 'AttributeError'>|type object 'Frame' has no attribute 'tk'
+15:05:59|6|14|<class 'NameError'>|name 'LabelFrame1' is not defined
+15:08:09|6|29|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:09:08|6|29|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:09:25|6|29|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:23:24|6|41|<class '_tkinter.TclError'>|unknown option "-hegith"

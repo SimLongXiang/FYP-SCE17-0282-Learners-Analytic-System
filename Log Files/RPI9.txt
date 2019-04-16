@@ -1,0 +1,17 @@
+09:47:33|9|24|<class 'NameError'>|name 'sleep' is not defined
+09:51:09|9|12|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:53:34|9|13|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+10:19:31|9|8|<class 'NameError'>|name 'x' is not defined
+10:20:08|9|17|<class 'NameError'>|name 'sense' is not defined
+10:22:41|9|20|<class 'NameError'>|name 'time' is not defined
+10:24:39|9|20|<class 'NameError'>|name 'time' is not defined
+10:26:09|9|20|<class 'NameError'>|name 'time' is not defined
+10:26:39|9|20|<class 'NameError'>|name 'time' is not defined
+10:40:06|9|36|<class 'NameError'>|name 'circle' is not defined
+14:46:38|9|19|<class '_tkinter.TclError'>|bad option "-x": must be -column, -columnspan, -in, -ipadx, -ipady, -padx, -pady, -row, -rowspan, or -sticky
+15:03:18|9|12|<class '_tkinter.TclError'>|expected integer but got "Bold"
+15:03:49|9|12|<class '_tkinter.TclError'>|expected integer but got "bold"
+15:04:19|9|19|<class 'TypeError'>|place_configure() missing 1 required positional argument: 'self'
+15:06:09|9|12|<class '_tkinter.TclError'>|expected integer but got "italic"
+15:21:55|9|42|<class 'NameError'>|name 'text' is not defined
+15:22:22|9|42|<class 'NameError'>|name 'text' is not defined

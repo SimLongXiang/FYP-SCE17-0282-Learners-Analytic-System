@@ -1,0 +1,26 @@
+09:47:33|3|8|<class 'NameError'>|name 'pring' is not defined
+09:51:10|3|9|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:52:32|3|10|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:59:19|3|14|<class 'NameError'>|name 'name' is not defined
+10:00:09|3|14|<class 'NameError'>|name 'name' is not defined
+10:00:33|3|6|<class 'NameError'>|name 'herp' is not defined
+10:16:55|3|9|<class 'NameError'>|name 'x' is not defined
+10:17:11|3|18|<class 'NameError'>|name 'sense' is not defined
+10:17:19|3|18|<class 'NameError'>|name 'sense' is not defined
+10:17:57|3|17|<class 'NameError'>|name 'sense' is not defined
+10:18:17|3|17|<class 'NameError'>|name 'sense' is not defined
+11:25:36|3|20|<class 'NameError'>|name 'v' is not defined
+11:26:02|3|32|<class 'AttributeError'>|'SenseHat' object has no attribute 'setpixels'
+11:26:31|3|32|<class 'ValueError'>|Pixel at index 0 is invalid. Pixels must contain 3 elements: Red, Green and Blue
+11:26:59|3|32|<class 'ValueError'>|Pixel at index 0 is invalid. Pixels must contain 3 elements: Red, Green and Blue
+11:28:03|3|42|<class 'NameError'>|name 'clear' is not defined
+11:30:33|3|53|<class 'ValueError'>|Pixel lists must have 64 elements
+13:26:46|3|10|<class '_tkinter.TclError'>|bad geometry specifier "400x500x123x123"
+13:31:57|3|10|<class 'AttributeError'>|'str' object has no attribute 'items'
+13:40:47|3|14|<class 'NameError'>|name 'LAbelFrame' is not defined
+13:41:03|3|15|<class 'NameError'>|name 'Frane' is not defined
+13:42:20|3|12|<class 'AttributeError'>|type object 'Frame' has no attribute 'tk'
+13:50:07|3|19|<class '_tkinter.TclError'>|unknown option "-row"
+13:57:02|3|14|<class 'TypeError'>|place_configure() missing 1 required positional argument: 'self'
+14:45:20|3|66|<class '_tkinter.TclError'>|unknown option "-colour"
+14:57:20|3|71|<class '_tkinter.TclError'>|bad option "-width": must be -column, -columnspan, -in, -ipadx, -ipady, -padx, -pady, -row, -rowspan, or -sticky

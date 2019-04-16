@@ -1,0 +1,30 @@
+09:48:19|5|7|<class 'NameError'>|name 'name' is not defined
+09:48:35|5|7|<class 'NameError'>|name 'name' is not defined
+09:49:05|5|7|<class 'NameError'>|name 'name' is not defined
+09:51:31|5|12|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:53:01|5|12|<class 'ValueError'>|invalid literal for int() with base 10: ' 40 more minutes'
+09:54:09|5|12|<class 'ValueError'>|invalid literal for int() with base 10: ' 40 more minutes'
+10:27:14|5|10|<class 'NameError'>|name 'B' is not defined
+10:27:25|5|20|<class 'NameError'>|name 'sense' is not defined
+10:29:12|5|25|<class 'TypeError'>|set_pixels() missing 1 required positional argument: 'pixel_list'
+13:11:58|5|70|<class 'NameError'>|name 'male' is not defined
+13:12:23|5|69|<class 'NameError'>|name 'male' is not defined
+13:14:19|5|73|<class 'NameError'>|name 'genderresponse' is not defined
+13:23:04|5|105|<class 'AttributeError'>|'module' object has no attribute 'clear'
+13:23:37|5|105|<class 'AttributeError'>|'module' object has no attribute 'clear'
+13:30:10|5|105|<class 'AttributeError'>|'module' object has no attribute 'clear'
+13:30:54|5|108|<class 'AttributeError'>|'module' object has no attribute 'clear'
+13:37:08|5|111|<class 'AttributeError'>|'module' object has no attribute 'clear'
+14:19:17|5|11|<class 'AttributeError'>|'str' object has no attribute 'items'
+14:25:10|5|15|<class 'TypeError'>|place_configure() missing 1 required positional argument: 'self'
+14:49:25|5|11|<class '_tkinter.TclError'>|unknown font style "Bold"
+14:50:13|5|11|<class '_tkinter.TclError'>|unknown font style "Bold"
+14:50:25|5|19|<class 'NameError'>|name 'chickenwings' is not defined
+14:50:52|5|19|<class 'NameError'>|name 'Chickenwings' is not defined
+14:51:42|5|21|<class 'NameError'>|name 'Chickenwings' is not defined
+14:58:37|5|27|<class 'NameError'>|name 'Main' is not defined
+15:01:28|5|27|<class 'NameError'>|name 'Main' is not defined
+15:17:48|5|59|<class 'NameError'>|name 'height70' is not defined
+15:20:40|5|12|<class 'NameError'>|name 'Title' is not defined
+15:28:01|5|11|<class 'NameError'>|name 'SB' is not defined
+15:29:34|5|65|<class 'NameError'>|name 'SB' is not defined

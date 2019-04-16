@@ -1,0 +1,29 @@
+09:47:33|4|5|<class 'NameError'>|name 'sense' is not defined
+09:47:33|4|8|<class 'NameError'>|name 'pring' is not defined
+09:51:10|4|9|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:52:32|4|10|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:59:19|4|14|<class 'NameError'>|name 'name' is not defined
+10:00:09|4|14|<class 'NameError'>|name 'name' is not defined
+10:00:33|4|6|<class 'NameError'>|name 'herp' is not defined
+10:16:55|4|9|<class 'NameError'>|name 'x' is not defined
+10:17:11|4|18|<class 'NameError'>|name 'sense' is not defined
+10:17:19|4|18|<class 'NameError'>|name 'sense' is not defined
+10:17:57|4|17|<class 'NameError'>|name 'sense' is not defined
+10:18:17|4|17|<class 'NameError'>|name 'sense' is not defined
+11:25:36|4|20|<class 'NameError'>|name 'v' is not defined
+11:26:02|4|32|<class 'AttributeError'>|'SenseHat' object has no attribute 'setpixels'
+13:30:54|4|108|<class 'AttributeError'>|'module' object has no attribute 'clear'
+13:37:08|4|111|<class 'AttributeError'>|'module' object has no attribute 'clear'
+14:19:17|4|11|<class 'AttributeError'>|'str' object has no attribute 'items'
+14:25:10|4|15|<class 'TypeError'>|place_configure() missing 1 required positional argument: 'self'
+14:49:25|4|11|<class '_tkinter.TclError'>|unknown font style "Bold"
+14:50:13|4|11|<class '_tkinter.TclError'>|unknown font style "Bold"
+14:50:25|4|19|<class 'NameError'>|name 'chickenwings' is not defined
+14:50:52|4|19|<class 'NameError'>|name 'Chickenwings' is not defined
+14:51:42|4|21|<class 'NameError'>|name 'Chickenwings' is not defined
+14:58:37|4|27|<class 'NameError'>|name 'Main' is not defined
+15:01:28|4|27|<class 'NameError'>|name 'Main' is not defined
+15:17:48|4|59|<class 'NameError'>|name 'height70' is not defined
+15:20:40|4|12|<class 'NameError'>|name 'Title' is not defined
+15:28:01|4|11|<class 'NameError'>|name 'SB' is not defined
+15:29:34|4|65|<class 'NameError'>|name 'SB' is not defined

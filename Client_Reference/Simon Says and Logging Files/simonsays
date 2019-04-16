@@ -1,0 +1,28 @@
+2017-10-19 13:47:55,685 - root - This is a test for logging FIRST. - 7
+2017-10-19 13:47:55,820 - root - This is a test for logging. - 60
+2017-10-19 13:47:58,878 - root - 'list' object cannot be interpreted as an integer - 86
+Traceback (most recent call last):
+  File "/home/pi/Desktop/FYP/Simon_Says_logging.py", line 66, in <module>
+    computer_choice(level)
+  File "/home/pi/Desktop/FYP/Simon_Says_logging.py", line 44, in computer_choice
+    for i in range(0,level):
+TypeError: 'list' object cannot be interpreted as an integer
+2017-10-19 13:48:34,262 - root - This is a test for logging FIRST. - 7
+2017-10-19 13:48:34,394 - root - This is a test for logging. - 60
+2017-10-19 13:48:35,415 - root - level_message() missing 1 required positional argument: 'level' - 86
+Traceback (most recent call last):
+  File "/home/pi/Desktop/FYP/Simon_Says_logging.py", line 65, in <module>
+    level_message()
+TypeError: level_message() missing 1 required positional argument: 'level'
+2017-10-19 13:49:12,173 - root - This is a test for logging FIRST. - 7
+2017-10-19 13:49:12,261 - root - This is a test for logging. - 60
+2017-10-19 13:49:15,374 - root - 'list' object cannot be interpreted as an integer - 86
+Traceback (most recent call last):
+  File "/home/pi/Desktop/FYP/Simon_Says_logging.py", line 66, in <module>
+    computer_choice(level)
+  File "/home/pi/Desktop/FYP/Simon_Says_logging.py", line 44, in computer_choice
+    for i in range(0,level):
+TypeError: 'list' object cannot be interpreted as an integer
+2017-10-19 13:50:33,620 - root - This is a test for logging FIRST. - 7
+2017-10-19 13:50:33,708 - root - This is a test for logging. - 60
+2017-10-19 13:50:36,810 - root - 'list' object cannot be interpreted as an integer - 86

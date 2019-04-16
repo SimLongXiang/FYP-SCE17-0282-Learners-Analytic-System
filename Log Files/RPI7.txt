@@ -1,0 +1,22 @@
+09:50:32|7|9|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:52:02|7|10|<class 'TypeError'>|Can't convert 'int' object to str implicitly
+09:53:12|7|10|<class 'NameError'>|name 'string' is not defined
+10:24:53|7|23|<class 'NameError'>|name 'time' is not defined
+10:29:38|7|41|<class 'TypeError'>|object of type 'int' has no len()
+13:48:51|7|68|<class 'AttributeError'>|'SenseHat' object has no attribute 'set_message'
+14:26:53|7|10|<class '_tkinter.TclError'>|bad geometry specifier "100x500+50x50"
+14:32:23|7|12|<class 'AttributeError'>|'str' object has no attribute 'items'
+14:43:31|7|19|<class 'NameError'>|name 'Pause' is not defined
+15:34:09|7|27|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:34:52|7|27|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:35:26|7|40|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:45:12|7|39|<class 'NameError'>|name 'item' is not defined
+15:45:53|7|39|<class 'NameError'>|name 'item' is not defined
+15:48:16|7|52|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:48:33|7|52|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:49:04|7|54|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:50:52|7|54|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:52:21|7|54|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:54:10|7|59|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:54:42|7|59|<class 'NameError'>|name 'LabelFrame2' is not defined
+15:55:52|7|59|<class 'NameError'>|name 'LabelFrame2' is not defined
